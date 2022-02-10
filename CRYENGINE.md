@@ -1,7 +1,7 @@
 CRYENGINE
 
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/Logo.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/Logo.png)
 
 
 César Jorge Rodríguez
@@ -57,29 +57,29 @@ Cuenta con una comunidad muy activa, documentación para aburrir (en inglés), i
 
 Antes de empezar a usar CryEngine debemos registrarnos en la página oficial como usuario ya que sino, no nos será posible usar el programa, una vez hecho, podremos instalarlo. El primer paso para ello es elegir la ruta de instalación:
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/Install1.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/Install1.png)
 
 A continuación nos aparecerá otra ventana en la que simplemente tenemos que clicar en install.
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/Install2.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/Install2.png)
 
 Con esto ya empezará a instalarse, tenemos que esperar a que la barra de progreso acabe para continuar.
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/Install3.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/Install3.png)
 
 Por último nos aparecerá un mensaje indicándonos que la instalación ha acabado y la opción de darle a finish estará disponible.
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/Install4.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/Install4.png)
 
 Lo primero que vemos al iniciar el programa es esta ventana:
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/VentanaPrincipal.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/VentanaPrincipal.png)
 
 Podremos observar que la ventana se compone de una barra superior con el logro de cryengine y 3 pestañas, la primera es la librería donde podremos buscar nuestros proyectos, assets/activos, engines (versiones del motor entre la cuales tendremos que elegir para usar), y envíos que sería algo así como un repositorio del propio cryengine de uso público.
 
 La segunda como su nombre indica son las news/noticias que van saliendo sobre nuevas actualizaciones de cryengine y sus cambios.
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/MenuContent.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/MenuContent.png)
 
 La tercera es el marketplace que contiene dos links a internet, uno lleva a una pestaña en la web donde habrá muchísimas categorías de productos que podremos descargar, desde plugins hasta modelos 3d, algunos componentes son de uso gratuito y otros no. 
 
@@ -92,7 +92,7 @@ Tres botones que nos redireccionará a los foros de usuarios, tutoriales y docum
 
 Por último una versión reducida de las últimas noticias sobre cryengine.
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/MenuContent.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/MenuContent.png)
 
 (Importante, si queremos crear un proyecto es necesario tener una versión del motor instalada, junto con unas librerías y otros programas necesarios entre ellos uno para hacer debugging, todo esto es pedido cuando clicamos en “+new”).
 
@@ -139,27 +139,27 @@ Dentro de nuestro proyecto una vez creado, he ido a la pestaña de new file y se
 
 Una vez creado el nivel nos preguntará las dimensiones de este y la calidad de las texturas.
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/NewLevel.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/NewLevel.png)
 
 Yo me he decidido por el nivel más pequeño posible que es de 128x128 pero con una calidad de texturas bastante alta.
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/CreadoProyecto.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/CreadoProyecto.png)
 
 Cuando lo tengamos se nos queda algo tal que así.
 
 Lo siguiente que he hecho es ir a tools, para poner en mi interfaz las herramientas de creación de terreno y vegetación.
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/Tools.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/Tools.png)
 
 Después con la herramienta de edición de terreno he ido a file y le damos a generate terrain que nos mostrará esta ventana:
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/TerrainEditor.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/TerrainEditor.png)
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/TerrainGeneration.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/TerrainGeneration.png)
 
 y en la opción de feature size lo he bajado a 3.2 lo que al darle a ok, me ha formado 2 montañitas que parecen unas pequeñas islas.
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/Isla1.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/Isla1.png)
 
 En el menú de las herramientas de cambiar terreno tenemos varias como la de “flatten” que sirve para igualar el terreno, Raise/lowe para elevar o bajar el terreno, y “smooth” para suavizar las elevaciones.
 
@@ -167,7 +167,7 @@ En el menú de las herramientas de cambiar terreno tenemos varias como la de “
 
 Aplicando estas herramientas he hecho algo tal que así:
 
-![](https://github.com/cesarjorgerodriguez/AED-Cesar/blob/main/PGL/imgCryEngine/Isla2.png)
+![](https://github.com/cesarjorgerodriguez/Cesar_PGL/blob/main/imgCryEngine/Isla2.png)
 
 A partir de aquí me da pereza explicar cada paso que hago para crear la isla pero bueno, es simplemente utilizar las opciones que tengo de los menús de herramientas que dije antes.
 
